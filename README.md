@@ -8,9 +8,9 @@
 
 ---
 
-## 📖 Overview
+## Overview
 
-**OMNIAI** is an open, model-agnostic collection of **25 specialized AI skills** designed to automate the entire fiscal, financial, payroll, and bookkeeping lifecycle under the laws and regulations of **El Salvador**:
+**KRONOS** is an open, model-agnostic collection of **25 specialized AI skills** designed to automate the entire fiscal, financial, payroll, and bookkeeping lifecycle under the laws and regulations of **El Salvador**:
 
 - **Ministerio de Hacienda (DGII):** Electronic Invoicing (DTE), VAT Ledgers, Form F-07, Form F-14, Form F-11, F-910, F-987.
 - **Labor & Social Security:** ISSS health ceilings, AFP Crecer & Confía pension contributions, Art. 37 Income Tax tables, statutory vacations, aguinaldos, and severance pay.
@@ -18,7 +18,7 @@
 
 ---
 
-## 📂 The 25 OMNIAI Skills Index
+##  The 25 KRONOS Skills Index
 
 The skills are organized into 5 functional clusters:
 
@@ -69,7 +69,7 @@ The skills are organized into 5 functional clusters:
 
 ---
 
-## 🚀 How to Use with Any AI Model
+## How to Use with Any AI Model
 
 ### 1. Anthropic Claude (Claude Desktop / Projects)
 - **Claude Projects:** Create a project named *"El Salvador Accounting & Taxes"*, upload the `skills/` folder to **Project Knowledge**, and add `skills/05-auditing-and-compliance/25_orchestrator_omni_agent.md` to **Custom Instructions**.
