@@ -1,4 +1,4 @@
-# 🇸🇻 OMNIAI: Salvadoran Accounting, Tax & Payroll Automation Suite
+# KRONOS ACCOUNTING: Salvadoran Accounting, Tax & Payroll Automation Suite
 
 [![Model Agnostic](https://img.shields.io/badge/AI-Model--Agnostic-blue.svg)](https://github.com)
 [![Jurisdiction](https://img.shields.io/badge/Jurisdiction-El%20Salvador%20%28SV%29-brightgreen.svg)](https://www.mh.gob.sv)
