@@ -1,14 +1,15 @@
-# KRONOS ACCOUNTING: Salvadoran Accounting, Tax & Payroll Automation Suite
+# 🇸🇻 KRONOS: Salvadoran Accounting, Tax & Payroll Automation Suite
 
 [![Model Agnostic](https://img.shields.io/badge/AI-Model--Agnostic-blue.svg)](https://github.com)
 [![Jurisdiction](https://img.shields.io/badge/Jurisdiction-El%20Salvador%20%28SV%29-brightgreen.svg)](https://www.mh.gob.sv)
 [![Compliance](https://img.shields.io/badge/Compliance-Ministerio%20de%20Hacienda%20%7C%20ISSS%20%7C%20AFP-orange.svg)](https://factura.gob.sv)
+[![License](https://img.shields.io/badge/License-MIT-purple.svg)](LICENSE)
 
 > **Universal AI-native accounting, tax compliance, and payroll automation suite for El Salvador (DTE, VAT, ISSS, AFP, F-07, F-14 & NIIF). Works across Claude, ChatGPT, Gemini, and local LLMs.**
 
 ---
 
-## Overview
+## 📖 Overview
 
 **KRONOS** is an open, model-agnostic collection of **25 specialized AI skills** designed to automate the entire fiscal, financial, payroll, and bookkeeping lifecycle under the laws and regulations of **El Salvador**:
 
@@ -18,7 +19,7 @@
 
 ---
 
-##  The 25 KRONOS Skills Index
+## 📂 The 25 KRONOS Skills Index
 
 The skills are organized into 5 functional clusters:
 
@@ -69,13 +70,13 @@ The skills are organized into 5 functional clusters:
 
 ---
 
-## How to Use with Any AI Model
+## 🚀 How to Use with Any AI Model
 
 ### 1. Anthropic Claude (Claude Desktop / Projects)
 - **Claude Projects:** Create a project named *"El Salvador Accounting & Taxes"*, upload the `skills/` folder to **Project Knowledge**, and add `skills/05-auditing-and-compliance/25_orchestrator_omni_agent.md` to **Custom Instructions**.
 
 ### 2. OpenAI ChatGPT / Custom GPTs
-- **Custom GPT:** Create a new GPT named *"OMNIAI Salvadoran Accountant"*. In **Instructions**, paste the content of `25_orchestrator_omni_agent.md`. In **Knowledge**, upload the remaining `.md` files.
+- **Custom GPT:** Create a new GPT named *"KRONOS Salvadoran Accountant"*. In **Instructions**, paste the content of `25_orchestrator_omni_agent.md`. In **Knowledge**, upload the remaining `.md` files.
 
 ### 3. Google Gemini / Antigravity
 - Register the skills directly into `.agents/skills/` or invoke them via progressive context disclosure.
