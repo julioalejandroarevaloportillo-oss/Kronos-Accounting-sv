@@ -5,7 +5,6 @@
 [![Model Agnostic](https://img.shields.io/badge/AI-Model--Agnostic-blue.svg)](README.md)
 [![Jurisdiction](https://img.shields.io/badge/Jurisdiction-El%20Salvador%20%28SV%29-brightgreen.svg)](https://www.mh.gob.sv)
 [![Compliance](https://img.shields.io/badge/Compliance-Hacienda%20%7C%20ISSS%20%7C%20AFP%20%7C%20CVPCPA-orange.svg)](https://factura.gob.sv)
-[![License](https://img.shields.io/badge/License-MIT-purple.svg)](LICENSE)
 
 > **50 model-agnostic AI skills for Salvadoran accounting (DTE, VAT, ISSS, AFP) and universal operations (project planning, anti-slop, Word/Excel automation, Power BI). Works with Claude, ChatGPT, Gemini, and local LLMs.**
 
