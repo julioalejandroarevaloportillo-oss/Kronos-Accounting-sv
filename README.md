@@ -164,13 +164,6 @@ kronos/
 │   ├── 03-anti-slop-standards/      # Output quality enforcement (Skills 11–15)
 │   ├── 04-office-word-excel/        # Word & Excel automation (Skills 16–20)
 │   └── 05-power-bi-analytics/       # Power BI modeling & governance (Skills 21–25)
-│
-├── demo_agent/
-│   ├── kronos_agent_engine.py       # Agentic pipeline demo (single run)
-│   └── kronos_interactive.py        # Interactive console (continuous loop)
-│
-├── iniciar_kronos.bat               # One-click Windows launcher
-└── README.md
 ```
 
 ---
